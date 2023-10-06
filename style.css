@@ -1,0 +1,30 @@
+.um{
+    border: 2px solid blueviolet;
+    width: 111px;
+    height: 110px;
+    margin: 100px;
+    padding: 10px 50px 100px 20px;
+}
+.dois{
+    border: 2px solid darkcyan;
+    width: 222px;
+    height: 140px;
+    margin: 220px;
+    padding: 20px 40px 88px 14px;
+    margin-inline: auto;
+ }
+ .tres{
+    border: 2px solid royalblue;
+    width: 333px;
+    height: 90px;
+    margin: 30px;
+    padding: 130px 30px 53px 77px;
+ }
+ .quatro{
+    border: 2px solid darkslateblue;
+    width: 444px;
+    height: 240px;
+    margin: 44px;
+    padding: 34px 54px 40px 90px;
+    margin-inline: auto;
+ }
